@@ -1,0 +1,60 @@
+{
+  "navbar": {
+    "home": "Home",
+    "khetiPartnership": "🌾 Kheti Partnership",
+    "mandiBhav": "Mandi Bhav",
+    "buyers": "Buyers",
+    "sellCrop": "Sell Crop",
+    "whatToGrow": "What to Grow",
+    "cropHealth": "Crop Health",
+    "weather": "Weather",
+    "myCrop": "My Crop",
+    "payments": "Payments",
+    "help": "Help",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "logout": "Logout",
+    "mainMenu": "Main Menu",
+    "moreFeatures": "More Features"
+  },
+  "home": {
+    "heroTitle": "🌾 Aapki Fasal, Aapka Faisla.",
+    "heroSubtitle": "Smart Bharat helps you plan your crop, protect it, understand the market, connect with buyers and make better farming decisions.",
+    "explore": "Explore Smart Bharat",
+    "findMarket": "Find a Market",
+    "quickActions": "What do you want to do today?",
+    "chooseCrop": "🌱 Choose a Crop",
+    "findLand": "🌾 Find Agricultural Land",
+    "checkMandi": "📊 Check Mandi Prices",
+    "findBuyer": "🤝 Find a Buyer",
+    "sellMyCrop": "🚜 Sell My Crop",
+    "checkWeather": "🌦️ Check Weather",
+    "journeyTitle": "Your Farming Journey",
+    "everythingTitle": "Everything You Need for Your Farming Journey",
+    "khetiTitle": "🌾 Kheti Karni Hai, Par Zameen Nahi?",
+    "khetiDesc": "Jiske paas agricultural land hai lekin woh khud kheti nahi karta, aur jiske paas kheti karne ki capability hai lekin zameen nahi hai — Smart Bharat unhe connect karta hai.",
+    "haveLand": "🏡 I Have Land",
+    "haveLandDesc": "Apni unused agricultural land ko farming partnership ke liye available karein.",
+    "listMyLand": "List My Land",
+    "needLand": "👨‍🌾 I Need Land",
+    "needLandDesc": "Kheti karne ke liye suitable agricultural land find karein."
+  },
+  "auth": {
+    "state": "Which state are you from?",
+    "language": "Choose your preferred language",
+    "continueIn": "Continue in {{lang}}"
+  },
+  "common": {
+    "explore": "Explore",
+    "checkCropHealth": "Check Crop Health",
+    "viewWeather": "View Weather",
+    "checkMandiBhav": "Check Mandi Bhav",
+    "findBuyers": "Find Buyers",
+    "sellYourCrop": "Sell Your Crop",
+    "viewMyCrop": "View My Crop",
+    "viewPayments": "View Payments",
+    "getHelp": "Get Help"
+  }
+}
